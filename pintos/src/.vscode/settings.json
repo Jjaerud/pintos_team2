@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vaddr.h": "c",
+        "synch.h": "c",
+        "cstdlib": "c",
+        "serial.h": "c",
+        "stdbool.h": "c",
+        "flags.h": "c"
+    }
+}
